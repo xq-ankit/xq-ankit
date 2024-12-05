@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">Passionate Indian Developer Exploring Knowledge Horizons 🚀</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **guptankit1712004@gmail.com**
 
